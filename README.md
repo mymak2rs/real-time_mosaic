@@ -1,1 +1,6 @@
-# real-time_mosaic
+# 실시간 얼굴 인식, 모자이크 프로그램
+-----
+## [프로젝트 개요](#프로젝트-개요)
+#### 웹 캠 상에서 실시간으로 DB에 있는 사람의 얼굴인가를 판단하여 아닐 경우 모자이크 처리를 하는 프로그램.<br>
+#### ![image](https://user-images.githubusercontent.com/116767717/215313647-940ead5d-22a5-4ead-b14b-cdbac4555c13.png)
+----
